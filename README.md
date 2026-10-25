@@ -30,3 +30,10 @@
 
 
 <img width="1600" height="968" alt="WhatsApp Image 2026-10-25 at 19 56 27" src="https://github.com/user-attachments/assets/b08abb10-c22c-48ac-b7c9-2be65654ae9e" />
+
+<img width="1920" height="989" alt="pcb_3d" src="https://github.com/user-attachments/assets/e2477f55-d4d1-4b4a-b86a-492fdd62f69d" />
+
+<img width="1920" height="989" alt="schematic" src="https://github.com/user-attachments/assets/4775bcc9-bfc8-40ff-abaa-f50b9db164cd" />
+
+<img width="1920" height="989" alt="pcb_layout" src="https://github.com/user-attachments/assets/af9756e6-9d6b-4998-8f04-e0302ceea525" />
+

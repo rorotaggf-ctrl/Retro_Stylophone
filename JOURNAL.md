@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvo1dmd6030801q878uezl0m). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> a Retro Stylophone
+> A custom pocket chiptune synthesizer powered by an ESP32 NodeMCU, built for Hack Club Half Life Week 3. Features a 13 pad chromatic touch keyboard directly etched on a 2 layer KiCad PCB, a passive piezo buzzer with portamento, octave switching, and a 10k pot for pitch-bending.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

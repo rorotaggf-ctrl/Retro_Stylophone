@@ -111,3 +111,17 @@ Completed 2-layer routing in KiCad with top and bottom ground copper pours and 0
 Interactive 3D model view from KiCad showing the through-hole component headers, control pot, and exposed keyboard pads.
 
 ![PCB 3D View](images/pcb_3d.png)
+
+### Other
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_16_53" src="https://github.com/user-attachments/assets/10353d13-7a2f-4625-b5eb-63bae2ef8593" />
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_17_29" src="https://github.com/user-attachments/assets/55158bab-fa64-42cb-9708-5e70b7a5beaf" />
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_17_25" src="https://github.com/user-attachments/assets/b478048b-9409-4969-bc0b-7cff92730ffb" />
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_17_15" src="https://github.com/user-attachments/assets/e9aa9112-ff5f-41fa-a8bb-7e7e7e30adf1" />
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_17_11" src="https://github.com/user-attachments/assets/49fee91b-e885-4e86-82d4-bda52a845164" />
+
+<img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_17_07" src="https://github.com/user-attachments/assets/c72f9998-56e6-4f67-bc30-a741e1c8d63f" />

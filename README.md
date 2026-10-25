@@ -27,3 +27,6 @@
 | 100nF Ceramic Capacitors | Decoupling & noise filtering (from inventory) | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
 | Female Pin Headers 2.54mm | Removable socket for ESP32 (from inventory) | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
 | **Total Self-Funded** | | | **$26.48** | **23,64 €** | | |
+
+
+<img width="1600" height="968" alt="WhatsApp Image 2026-10-25 at 19 56 27" src="https://github.com/user-attachments/assets/b08abb10-c22c-48ac-b7c9-2be65654ae9e" />

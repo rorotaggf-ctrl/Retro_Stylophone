@@ -16,7 +16,7 @@
 
 1. [2026-10-25 – ### What I worked on:](#2026-10-25-what-i-worked-on)
 2. [2026-10-25 – ### What I worked on:](#2026-10-25-what-i-worked-on)
-3. [2026-10-25 – *(note: Hackatime didn't track properly in the background during this session, so I took screenshots of my files, build setup, and clean compiler output to prove the 6 hours of work).*](#2026-10-25-note-hackatime-didnt-track-properly-in-the-backgr)
+3. [2026-10-25 – *(note: Hackatime didn't track properly after a time, so I took screenshots of my files  to prove the 6 hours of work).*](#2026-10-25-note-hackatime-didnt-track-properly-after-a-time-)
 
 ## Design
 
@@ -62,11 +62,11 @@
 ![schematic](https://halflife.hackclub-assets.com/sessions/e6hGjTGUbsnE3ZfrRWC0EZfD7cDoesW5/794e3d06388fd4cef1ccaa335d423cf0bbcb2687329d12fbfe81a5d48a8ab466.png)
 - Pushed all KiCad project files (`.kicad_sch`, `.kicad_pcb`, and images) to GitHub.
 
-### 2026-10-25 – *(note: Hackatime didn't track properly in the background during this session, so I took screenshots of my files, build setup, and clean compiler output to prove the 6 hours of work).*
+### 2026-10-25 – *(note: Hackatime didn't track properly after a time, so I took screenshots of my files  to prove the 6 hours of work).*
 
 **6h**
 
-*(note: Hackatime didn't track properly in the background during this session, so I took screenshots of my files, build setup, and clean compiler output to prove the 6 hours of work).*
+*(note: Hackatime didn't track properly after a time, so I took screenshots of my files  to prove the 6 hours of work).*
 
 ### What I did:
 - Set up PlatformIO with the `esp32dev` environment and fixed the missing Arduino include paths in VS Code.

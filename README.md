@@ -55,10 +55,10 @@ Everything is mounted using through-hole female pin headers so the ESP32 can be 
 | Part | What it's for | Qty | Price (USD) | Price (EUR) | Vendor | Purchase Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | Custom 2-Layer PCB (5 copies incl. Shipping) | Main stylophone PCB with capacitive touch pads | 1 | $14.20 | 12,68 € | JLCPCB | [JLCPCB Quote](https://jlcpcb.com/quote) |
-| ESP32 NodeMCU USB-C (2-Pack) | Synthesizer sound engine & touch controller | 1 | $13.31 | 11,88 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0DB8CYQBS) |
-| **Total** | | | **$27.51** | **24,56 €** | | |
+| ESP32 NodeMCU USB-C (2-Pack) | Synthesizer sound engine & touch controller | 1 | $15.66 | 13,98 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0DB8CYQBS) |
+| **Total** | | | **$29.86** | **26,66 €** | | |
 
-*Remaining Tier 1 Budget: $2.49*
+*Remaining Tier 1 Budget: $0.14*
 
 ### Additional Self-Funded Components
 
@@ -73,7 +73,6 @@ Everything is mounted using through-hole female pin headers so the ESP32 can be 
 | 100nF Ceramic Capacitors | Decoupling & noise filtering | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
 | Female Pin Headers 2.54mm | Removable socket for ESP32 | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
 | **Total Self-Funded** | | | **$22.59** | **20,17 €** | | |
-
 ---
 
 ## Software & Firmware

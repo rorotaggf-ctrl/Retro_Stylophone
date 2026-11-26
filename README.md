@@ -47,33 +47,32 @@ Everything is mounted using through-hole female pin headers so the ESP32 can be 
 
 ## Bill of Materials (BoM)
 
-### Grant Funded Components (Tier 1 Limit: $30.00)
+### Grant Funded Components (Half-Life Tier 1 Limit: $30.00)
 
 > [!NOTE]
-> This parts list covers multipack items funded via Hack Club Half-Life. For the raw CSV file, see `BOM.csv`.
+> This parts list covers the components submitted for funding via Hack Club Half-Life and matches `BOM.csv`.
 
 | Part | What it's for | Qty | Price (USD) | Price (EUR) | Vendor | Purchase Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| ESP32 NodeMCU USB-C (2-Pack) | Synthesizer sound engine & touch controller | 1 | $15.66 | 13,98 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0DB8CYQBS) |
+| Custom 2-Layer PCB (5 copies incl. Shipping) | Main stylophone PCB with capacitive touch pads | 1 | $17.65 | 15,76 € | JLCPCB | [JLCPCB Quote](https://jlcpcb.com/quote) |
 | 10K Linear Potentiometer WH148 (10-Pack) | Pitch-bend and waveform modulation | 1 | $7.04 | 6,29 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0GVP99HZ2) |
 | SPDT Mini Slide Switch (40-Pack) | Power and octave mode switch | 1 | $5.59 | 4,99 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B07M9Z4CBP) |
-| **Total** | | | **$28.29** | **25,26 €** | | |
+| **Total Grant Funded** | | | **$30.28** | **27,04 €** | | |
 
-*Remaining Tier 1 Budget: $1.71*
+*Note: $0.28 over Tier 1 base (well within Half-Life's $3.00 submission margin).*
 
-### Additional Self-Funded Components
+### Additional Self-Funded & Existing Inventory Components
 
 > [!IMPORTANT]
 > The following components are funded personally or sourced from existing workshop inventory to complete the build without exceeding the grant limit.
 
 | Part | What it's for | Qty | Price (USD) | Price (EUR) | Vendor | Purchase Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Custom 2-Layer PCB (5 copies) | Main stylophone PCB with capacitive touch pads | 1 | $8.10 | 7,23 € | JLCPCB | [JLCPCB Quote](https://jlcpcb.com/quote) |
-| PCB Shipping (Standard Line) | Tracked delivery to Germany | 1 | $9.55 | 8,53 € | JLCPCB | [JLCPCB Quote](https://jlcpcb.com/quote) |
+| ESP32 NodeMCU USB-C (2-Pack) | Synthesizer sound engine & touch controller | 1 | $15.66 | 13,98 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0DB8CYQBS) |
 | Passive Piezo Buzzer 5V (20-Pack) | Acoustic square-wave chiptune audio output | 1 | $8.83 | 7,88 € | Amazon | [Amazon Link](https://www.amazon.de/dp/B0179I6LIK) |
 | 100nF Ceramic Capacitors | Decoupling & noise filtering | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
 | Female Pin Headers 2.54mm | Removable socket for ESP32 | 2 | $0.00 | 0,00 € | Inventory | Existing parts |
-| **Total Self-Funded** | | | **$26.48** | **23,64 €** | | |
+| **Total Self-Funded** | | | **$24.49** | **21,86 €** | | |
 
 ---
 
@@ -112,7 +111,7 @@ Interactive 3D model view from KiCad showing the through-hole component headers,
 
 ![PCB 3D View](images/pcb_3d.png)
 
-### Other
+### Firmware Environment
 
 <img width="1920" height="1032" alt="platformio ini - Retro_Stylophone - Visual Studio Code  Administrator  26 10 2026 00_16_53" src="https://github.com/user-attachments/assets/10353d13-7a2f-4625-b5eb-63bae2ef8593" />
 
